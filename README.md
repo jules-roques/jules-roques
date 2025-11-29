@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Jules Roques 👋
 
-<!--
-**jules-roques/jules-roques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master Student in Artificial Intelligence @ IASD PSL | Ensimag Graduate**
 
-Here are some ideas to get you started:
+I am an Engineering graduate in Computer Science and Applied Mathematics, currently specializing in Artificial Intelligence. My coursework provides solid theoretical knowledge and good practical experience of state-of-the-art methods in artificial intelligence and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Languages and Tools
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=MATHWORKS&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI & Scientific Computing**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+### 📫 Connect with me
+
+* **Email:** jules28.roques@gmail.com
+* **Location:** Paris, France
