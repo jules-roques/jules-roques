@@ -1,6 +1,6 @@
-# Hi there, I'm Jules Roques 👋
+# Hi there 👋
 
-**Master Student in Artificial Intelligence @ IASD PSL | Ensimag Graduate**
+**I'm Jules, Master Student in Artificial Intelligence @ IASD PSL, and Ensimag Graduate**
 
 I am an Engineering graduate in Computer Science and Applied Mathematics, currently specializing in Artificial Intelligence. My coursework provides solid theoretical knowledge and good practical experience of state-of-the-art methods in artificial intelligence and data science.
 
