@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Jules 👋
 
-**I'm Jules, Master Student in Artificial Intelligence @ IASD PSL, and Ensimag Graduate**
+**Master Student in Artificial Intelligence @ IASD PSL | Ensimag Graduate**
 
 I am an Engineering graduate in Computer Science and Applied Mathematics, currently specializing in Artificial Intelligence. My coursework provides solid theoretical knowledge and good practical experience of state-of-the-art methods in artificial intelligence and data science.
 
