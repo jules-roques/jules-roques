@@ -16,7 +16,6 @@ I am an Engineering graduate in Computer Science and Applied Mathematics, curren
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=MATHWORKS&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **AI & Scientific Computing**
 
