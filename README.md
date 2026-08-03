@@ -23,6 +23,7 @@ I am an Engineering graduate in Computer Science and Applied Mathematics, curren
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Weights and Biases](https://img.shields.io/badge/weights%20%26%20biases-%23FCBC32.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 **DevOps & Tools**
 
